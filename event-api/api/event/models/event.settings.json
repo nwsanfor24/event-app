@@ -23,6 +23,10 @@
     },
     "Price": {
       "type": "decimal"
+    },
+    "categories": {
+      "via": "events",
+      "collection": "category"
     }
   }
 }
